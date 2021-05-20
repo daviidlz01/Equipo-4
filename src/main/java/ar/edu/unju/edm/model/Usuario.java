@@ -4,5 +4,5 @@ public class Usuario {
 	
 	private int dni;
 	
-
+	private int id;
 }
